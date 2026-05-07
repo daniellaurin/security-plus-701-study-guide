@@ -4,7 +4,7 @@
 source_dir="/home/dlaurin/notes/school/"
 
 # Destination directory
-dest_dir="/home/dlaurin/IT/security_plus_701_study_guide/"
+dest_dir="/home/dlaurin/IT/security-plus-701-study_guide/"
 
 # List of files to link
 files=(

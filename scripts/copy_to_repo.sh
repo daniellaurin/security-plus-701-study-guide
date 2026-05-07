@@ -4,7 +4,7 @@
 source_dir="/home/dlaurin/notes/school/"
 
 # Destination directory (GitHub repo)
-destination="/home/dlaurin/IT/security_plus_701_study_guide/orgmode_notes/"
+destination="/home/dlaurin/IT/security-plus-701-study-guide/orgmode_notes/"
 
 # List of files to copy
 files=(
