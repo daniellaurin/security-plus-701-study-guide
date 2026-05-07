@@ -8,10 +8,11 @@
 
 <h1> 
 <img src="/img/sec-plus-logo.png" alt="Security+ Logo" width="200">
-<h1/>
 
 > 📖 **A community-curated study guide for the CompTIA Security+ SY0-701 exam.**  
 > Designed to be beginner-friendly 
+
+<h1/>
 
 </div>
 
