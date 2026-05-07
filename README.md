@@ -37,13 +37,6 @@ The gold standard for Security+ prep. His **free, full-length SY0-701 video cour
 
 ---
 
-
-
-
-
-
-
-
 ## 📚 Study Materials & Downloads
 
 ### 🃏 Anki Flashcard Decks
@@ -65,10 +58,6 @@ The **official CompTIA exam blueprint**
 *(PDF is also saved in this repository as `Security+ SY0-701 Exam Objectives (5.0).pdf`)*
 
 ---
-
-
-
-
 
 ### 🎟️ Discount Tips & Tricks
 
@@ -115,7 +104,5 @@ Completing the **Google Cybersecurity Certificate on Coursera** makes you eligib
 <div align="center">
 
 ⭐ *If this guide helped you, please star the repo :)
-
-[![Star on GitHub](https://img.shields.io/github/stars/?style=social)](https://github.com/)
 
 </div>
