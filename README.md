@@ -5,10 +5,12 @@
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20SY0--701-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Reddit](https://img.shields.io/badge/Community-r%2FCompTIA-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/CompTIA/)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/)
+
+<br/> 
 
 <img src="/img/sec-plus-logo.png" alt="Security+ Logo" width="200">
 
+<br/> 
 
 > 📖 **A community-curated study guide for the CompTIA Security+ SY0-701 exam.**  
 > Designed to be beginner-friendly 
@@ -21,7 +23,6 @@
 - [🎓 Recommended Instructors](#-Professor_Messer)
 - [📚 Study Materials & Downloads](#-study-materials--downloads)
 - [💬 Community Advice](#-community-advice)
-- [📄 License](#-license)
 
 ---
 
@@ -35,6 +36,13 @@ The gold standard for Security+ prep. His **free, full-length SY0-701 video cour
 - 🌐 [professormesser.com](https://www.professormesser.com/) - course notes, study groups & practice exams
 
 ---
+
+
+
+
+
+
+
 
 ## 📚 Study Materials & Downloads
 
@@ -57,6 +65,10 @@ The **official CompTIA exam blueprint**
 *(PDF is also saved in this repository as `Security+ SY0-701 Exam Objectives (5.0).pdf`)*
 
 ---
+
+
+
+
 
 ### 🎟️ Discount Tips & Tricks
 
