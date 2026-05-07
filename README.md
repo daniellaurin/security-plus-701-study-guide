@@ -6,13 +6,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Reddit](https://img.shields.io/badge/Community-r%2FCompTIA-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/CompTIA/)
 
-<h1> 
+<br>
 <img src="/img/sec-plus-logo.png" alt="Security+ Logo" width="200">
+<br>
+<br>
+<br>
 
 > 📖 **A community-curated study guide for the CompTIA Security+ SY0-701 exam.**  
 > Designed to be beginner-friendly 
 
-<h1/>
 
 </div>
 
